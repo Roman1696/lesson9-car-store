@@ -22,7 +22,10 @@ namespace CarStorage
             }
 
             Console.WriteLine($"Source price: {cars[0].Price};Price after sale:{cars[0].GetSale()}");
-        
-        }
+
+
+           
+            
+    }
     }
 }
